@@ -1,0 +1,6 @@
+{
+  "name": "Vanguard Ops",
+  "description": "Тактический шутер от первого лица с мультиплеером, закупкой оружия, разрушаемым окружением, кейсами, кланами и лидербордами.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
